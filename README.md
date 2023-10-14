@@ -7,7 +7,7 @@ PlayStation Store
 Desenvolver uma interface da PlayStation™Store, que a tela da loja com os jogos disponíveis para venda, com seus respectivos valores e para qual versão do videogame.
 
 ## Funcionalidades
-A tela apresenta os josgos disponíveis para compra de acordo com os jogos cadastrados.
+A tela apresenta os jogos disponíveis para compra de acordo com os jogos cadastrados.
 
 ## Tecnologias
 - HTML 5
